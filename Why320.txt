@@ -1,0 +1,1 @@
+I am taking CMSC320 because I am in the machine learning track as I want to gain more experience with Data Science, specifically with handling large data sets, using various data management and labeling techniques and also get more experience with technologies like SQL and Pandas
